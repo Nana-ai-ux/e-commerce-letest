@@ -64,7 +64,7 @@ body{
     justify-content: center;
     align-items: flex-start;
     color: #424144;
-    height: 100vh;
+    height: 70vh;
 }
 .content h1{
     font-size: 40px;
@@ -102,7 +102,7 @@ body{
 .products .card{
     width: 310px;
     background: #f5f5f5;
-    box-shadow: 0 10px 20px gray;
+    box-shadow: 0 5px 20px gray;
     border-radius: 5px;
     padding: 5px;
     margin-bottom: 20px;
